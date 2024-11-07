@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://github.com/user-attachments/assets/00291214-3bdf-4344-accd-406ada261258" width="700">
+  <img alt="projeto Treine-me" src="https://github.com/user-attachments/assets/00291214-3bdf-4344-accd-406ada261258" width="700">
 </p>
 
 ## Tecnologias
